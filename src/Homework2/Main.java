@@ -20,7 +20,7 @@ public class Main {
 		int[] age_sequence = Arrays.stream(arrayOfHumans).mapToInt(Human::getAge).toArray();
 		int result = IntsFrequency.maxFrequency(1, 120, age_sequence);
 
-		System.out.println(Arrays.toString(arrayOfHumans));
+		// System.out.println(Arrays.toString(arrayOfHumans));
 		System.out.println(result);
 	}
 }
