@@ -1,3 +1,5 @@
+package Homework2;
+
 public interface HumanInterface {
 	int getAge();
 	String getName();

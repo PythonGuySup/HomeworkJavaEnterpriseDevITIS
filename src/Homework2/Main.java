@@ -1,4 +1,6 @@
-import utils.IntsFrequency;
+package Homework2;
+
+import Homework2.utils.IntsFrequency;
 
 import java.util.Arrays;
 import java.util.concurrent.ThreadLocalRandom;

@@ -1,3 +1,5 @@
+package Homework2;
+
 public class Human implements HumanInterface {
     private int age;
     private String name;

@@ -1,4 +1,4 @@
-package utils;
+package Homework2.utils;
 
 public class IntsFrequency {
     public static int maxFrequency(int min, int max, int[] sequence) {
